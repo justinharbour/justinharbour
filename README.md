@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my portfolio website [https://www.JustinHarbour.com](https://www.JustinHarbour.com)
 
-- 📝 Visit my blog at [https://justinharbour.com/blog](https://justinharbour.com/blog)
+- 📝 Visit my blog at [https://justinharbour.com/blog](https://www.JustinHarbour.com/blog)
 
 - 💬 Ask me about **Azure, AWS, VMWare Migrations, and Embedded Development**
 
