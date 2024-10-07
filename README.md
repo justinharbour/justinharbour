@@ -18,7 +18,7 @@
 <a href="https://codepen.io/justin-harbour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="justin-harbour" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/justin-harbour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-harbour" height="30" width="40" /></a>
 <a href="https://instagram.com/justin_harbour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justin_harbour" height="30" width="40" /></a>
-<a href="/https://justinharbour.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justinharbour.com/rss.xml" height="30" width="40" /></a>
+<a href="https://justinharbour.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justinharbour.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
