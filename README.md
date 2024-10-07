@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source srcset="https://harbour-brand.buckets.justinharbour.com/JH_logo_whitesolid.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://harbour-brand.buckets.justinharbour.com/JH_logo_blacksolid.svg" media="(prefers-color-scheme: light)">
+    <img src="https://harbour-brand.buckets.justinharbour.com/JH_logo_blacksolid.svg" alt="Justin Harbour Logo" width="200" height="200">
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Justin Harbour</h1>
 <h3 align="center">A passionate Cloud Engineer/Architect based in Orlando, FL</h3>
 
