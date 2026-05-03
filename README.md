@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinharbour&label=Profile%20views&color=0e75b6&style=flat" alt="justinharbour" /> </p>
 
-- 👨‍💻 Visit my portfolio website [https://www.JustinHarbour.com](https://www.JustinHarbour.com)
+- Visit my portfolio website [https://www.JustinHarbour.com](https://www.JustinHarbour.com)
 
-- 📝 Visit my blog at [https://www.JustinHarbour.com/blog](https://www.JustinHarbour.com/blog)
+- Visit my blog at [https://www.JustinHarbour.com/blog](https://www.JustinHarbour.com/blog)
 
-- 💬 Ask me about **Azure, AWS, VMWare Migrations, and Embedded Development**
+- I specialize in Azure, AWS, PowerShell, Python, Go, Terraform, JavaScript, and Swift
 
-- 📫 How to reach me **GitHub@JustinHarbour.com**
+- Send me an email: **GitHub@JustinHarbour.com**
 
 
 
