@@ -18,8 +18,3 @@
 - I specialize in Azure, AWS, PowerShell, Python, Go, Terraform, JavaScript, and Swift
 
 - Send me an email: **GitHub@JustinHarbour.com**
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/justinb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="justinb" /></a></p><br><br>
